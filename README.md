@@ -7,3 +7,6 @@ It generates Worley Noise based on the user's parameters. There are currently 6 
 
 ## Dependencies
 The library "comctl32.lib" must be linked in order for this to compile.
+
+## Releases
+See the Releases section for a pre-built version for Windows
