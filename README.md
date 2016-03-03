@@ -10,3 +10,6 @@ The library "comctl32.lib" must be linked in order for this to compile.
 
 ## Releases
 See the Releases section for a pre-built version for Windows
+
+## Controls
+Use the Options menu to input the image size and number of control points to generate and click okay. Once the noise has been generated, use the Noise Type menu to select a variety of noise to view.
