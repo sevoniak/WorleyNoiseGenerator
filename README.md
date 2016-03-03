@@ -1,5 +1,5 @@
 # WorleyNoiseGenerator
-A simple Worley Noise Generator that I wrote to see if I could.
+A simple Worley Noise Generator that I wrote as a challgent to myself to see if I could. Worley Noise is a cellular type of noise that can be used for the procedural generation of textures.
 
 ## Description
 I wrote this in Visual Studio 2012 for the Windows platform.
